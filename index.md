@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## About 
+## About
 
-ForumRec is a recommendation system that works with the [Super User](superuser.com) forum of the stack exchange forum website. Through the [Stack Apps API](https://api.stackexchange.com/) we are able to gather the recent questions that come from the Super User forum website and determine through our data model, which users of ours are best equipped to answer those questions. We hope to make our users time on Super User more efficient and easier as they questions they always would anser come straight to them. [Sign in]() to your stack exchange account and get started with ForumRec right now.
+ForumRec is a recommendation system that works with the [Super User](superuser.com) forum of the stack exchange forum website. Through the [Stack Apps API](https://api.stackexchange.com/) we are able to gather the recent questions that come from the Super User forum website and determine through our data model, which users of ours are best equipped to answer those questions. We hope to make our users time on Super User more efficient and easier as they questions they always would anser come straight to them. [Sign in](https://stackoverflow.com/oauth/dialog) to your stack exchange account and get started with ForumRec right now.
 
 ## Your Recommendations
 
