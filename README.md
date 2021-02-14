@@ -4,4 +4,4 @@ This repository is for the website portion of the ForumRec project. The reposito
 
 [ForumRec](github.com/okminz/ForumRec) is a recommendation system built to provide users with the question that they are most adept at answering to encourage efficiency for the SuperUser platform.
 
-The website portion of this recommendation system is accessible at [jasrajjohl.github.io](jasrajjohl.github.io).
+The website portion of this recommendation system is accessible at [jasrajjohl.github.io](http://jasrajjohl.github.io).
