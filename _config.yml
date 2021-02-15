@@ -9,5 +9,6 @@ contact_page: /docs/contact.html
 github: [metadata]
 
 # Build settings
+theme: jekyll-theme-slate 
 plugins:
   - jekyll-feed
