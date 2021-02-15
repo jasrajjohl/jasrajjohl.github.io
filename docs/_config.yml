@@ -55,7 +55,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-=======
-theme: jekyll-theme-slate
->>>>>>> f0214c0c2d528eb9df7e4d33e25edeb7c5f307b9
->>>>>>> Stashed changes
