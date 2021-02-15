@@ -32,4 +32,4 @@ cpu fan cooling amd-ryzen
 ```
 How to update PuTTy color scheme using reg-files
 putty colors
-```
+``` 
